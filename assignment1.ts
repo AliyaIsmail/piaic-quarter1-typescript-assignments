@@ -24,13 +24,13 @@ var num8:number=8;
 var num9:number=9;
 var num10:number=10;
 var adding:number=(num1+num2+num3+num4+num5+num6+num7+num8+num9+num10);
-console.log("adding of all numbers:",adding);
+console.log("Addition of all numbers:",adding);
 var subtraction:number=(num1-num2-num3-num4-num5-num6-num7-num8-num9-num10);
-console.log("subtraction of all numbers:",subtraction);
+console.log("Subtraction of all numbers:",subtraction);
 var multiplication:number=(num1*num2*num3*num4*num5*num6*num7*num8*num9*num10);
-console.log("multiplication of all numbers:",multiplication);
+console.log("Multiplication of all numbers:",multiplication);
 var division:number=(num4/num8);
-console.log("division of two numbers:",division);
+console.log("Division of two numbers:",division);
 
 //.................completed...............
 
